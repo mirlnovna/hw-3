@@ -1,0 +1,38 @@
+.expensesForm {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #ad9be9;
+}
+.date {
+  position: relative;
+  left: 37px;
+  bottom: 20px;
+  background: none;
+}
+.number {
+  background: none;
+  position: relative;
+  bottom: 26px;
+  right: 40px;
+}
+.saved {
+  background-color: aqua;
+  width: 120px;
+  background-color: #4b1367;
+  color: white;
+  border-radius: 10px;
+  height: 40px;
+  border: none;
+  margin: 7px;
+  position: relative;
+  left: 80px;
+  padding: 10px;
+}
+.price {
+  position: relative;
+  left: 57px;
+}
+.datess {
+  position: relative;
+  right: 39px;
+}

@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  padding-top: 10px;
+  background-color: rgb(50, 48, 48);
+}
+.App {
+  text-align: center;
+  margin: auto;
+  width: 700px;
+  height: 500px;
+}

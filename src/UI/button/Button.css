@@ -1,0 +1,16 @@
+.mainBtn {
+  background-color: rgb(102, 15, 102);
+  color: azure;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  position: relative;
+  height: 40px;
+  left: 80px;
+  top: 20px;
+  width: 120px;
+  margin: 3px;
+}
+button:disabled {
+  background-color: red;
+}

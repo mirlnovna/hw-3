@@ -1,0 +1,17 @@
+.first-input {
+  background-color: #ad9be9;
+}
+input {
+  background-color: white;
+  border-radius: 8px;
+  width: 210px;
+  padding: 8px;
+  position: relative;
+  bottom: 10px;
+  right: 72px;
+}
+label {
+  position: relative;
+  bottom: 40px;
+  background: none;
+}

@@ -1,0 +1,55 @@
+.itemDiv {
+  background-color: #4b4b4b;
+  margin-bottom: 20px;
+  /* width: 700px; */
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.delete {
+  color: white;
+  padding: 7px;
+  border-radius: 7px;
+  background-color: rgb(102, 15, 102);
+  border: none;
+  display: flex;
+  justify-content: flex-end;
+  box-shadow: 3px 3px 2px black;
+  height: 30px;
+  margin-left: 88%;
+  position: relative;
+  bottom: 176px;
+}
+.titles {
+  color: white;
+  font-size: 1.4rem;
+  background: none;
+  position: relative;
+  right: 130px;
+  text-transform: capitalize;
+  text-align: center;
+}
+.dates {
+  border: 2px solid white;
+  width: 120px;
+  height: 120px;
+  padding: 9px;
+  color: white;
+  background-color: #2a2a2a;
+  border-radius: 9px;
+  display: flex;
+  margin-left: 15px;
+}
+.prices {
+  color: white;
+  font-size: 1.4rem;
+  width: 100px;
+  height: 50px;
+  border: 2px solid black;
+  border-radius: 9px;
+  background-color: rgb(102, 15, 102);
+  display: flex;
+  padding: 8px;
+  margin-right: 10px;
+}
